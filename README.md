@@ -1,2 +1,2 @@
-# Gruppen-3-L-nder-Explorer-
+# Gruppe-3-Länder-Explorer
 Gruppenprojekt
